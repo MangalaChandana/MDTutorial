@@ -7,3 +7,4 @@
 ###### Heading level 6
 # Here's a Heading
 I really using Markdown
+I think I'll use it to format all of my documents from now on
