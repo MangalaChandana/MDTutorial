@@ -11,4 +11,4 @@ I think I'll use it to format all of my documents from now on
 #I think I'll use it to format all of my documents from now on
 # I think I'll use it to format all of my documents from now on
 ## I think I'll use it to format all of my documents from now on
-![screen shot] (pic1.png)
+![screen shot](pic1.png)
